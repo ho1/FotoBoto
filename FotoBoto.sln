@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FotoBotoSharp", "FotoBoto\FotoBotoSharp.vbproj", "{6C35A9AB-C8FC-4B0D-9D86-D4258C9F246F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C35A9AB-C8FC-4B0D-9D86-D4258C9F246F}.Debug|x86.ActiveCfg = Debug|x86
+		{6C35A9AB-C8FC-4B0D-9D86-D4258C9F246F}.Debug|x86.Build.0 = Debug|x86
+		{6C35A9AB-C8FC-4B0D-9D86-D4258C9F246F}.Release|x86.ActiveCfg = Release|x86
+		{6C35A9AB-C8FC-4B0D-9D86-D4258C9F246F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
