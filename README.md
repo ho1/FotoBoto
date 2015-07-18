@@ -6,5 +6,5 @@ It uses OpenCV with the Emgu CV .NET wrapper to establish communication with the
 
 The code has been tested in VS2015 Community and all dependencies are included in the /bin/debug/ folder for ease of use. 
 
-FotoBoto uses Emgu CV which is released under GPL v3, more info: http://www.emgu.com/wiki/index.php/Licensing:
+FotoBoto uses Emgu CV which is released under GPL v3, more info: http://www.emgu.com/wiki/index.php
 
